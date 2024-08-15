@@ -1,4 +1,7 @@
 #/bin/bash
 
 #Addition Function
-x=1+2
+x=a+b
+
+#Substraction function
+y=a-b
